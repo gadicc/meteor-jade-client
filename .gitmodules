@@ -1,0 +1,3 @@
+[submodule "lib/meteor-jade"]
+	path = lib/meteor-jade
+	url = git@github.com:mquandalle/meteor-jade.git
